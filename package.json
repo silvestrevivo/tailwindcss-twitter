@@ -1,0 +1,25 @@
+{
+  "name": "tailwindcss-twitter",
+  "version": "1.0.0",
+  "description": "Twitter landing page using tailwindcss, following the youtube tutorial from Andre Madarang ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvestrevivo/tailwindcss-twitter.git"
+  },
+  "keywords": [
+    "tailwindcss"
+  ],
+  "author": "@silvestrevivo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvestrevivo/tailwindcss-twitter/issues"
+  },
+  "homepage": "https://github.com/silvestrevivo/tailwindcss-twitter#readme",
+  "dependencies": {
+    "tailwindcss": "^1.2.0"
+  }
+}
