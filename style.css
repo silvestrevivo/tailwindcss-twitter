@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
+.top-nav-item{
+  @apply text-gray-700 no-underline text-sm mr-4 font-semibold pb-5 border-b-2 border-solid border-transparent;
+}
+
+.top-nav-item:hover{
+  @apply border-teal-200 text-teal-500;
+}
 @tailwind utilities;
