@@ -4,7 +4,7 @@
   "description": "Twitter landing page using tailwindcss, following the youtube tutorial from Andre Madarang ",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "tail": "npx tailwindcss build style.css -o css/style.css"
   },
   "repository": {
     "type": "git",
